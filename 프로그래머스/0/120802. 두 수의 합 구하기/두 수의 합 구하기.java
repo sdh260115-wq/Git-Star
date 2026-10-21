@@ -4,6 +4,8 @@ class Solution {
         
         answer = num1 + num2;
         
+        System.out.println(answer);
+        
         return answer;
     }
 }
